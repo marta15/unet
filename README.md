@@ -7,13 +7,17 @@ https://drive.google.com/drive/folders/1SxwI6xmOUU7Dhc7GM5E3qkM-a1_GFJw3?usp=sha
 Wymagania formalne:
 
 https://eti.pg.edu.pl/documents/1115629/0/zarz%C4%85dzenie%20wytyczne%20pracy
+
 https://eti.pg.edu.pl/dziekanat-eti/studia-ii-stopnia-magisterskie
 
 Dokumentacja bibliotek:
 
 https://keras.io/#keras-the-python-deep-learning-library
+
 https://www.tensorflow.org/programmers_guide/
+
 https://docs.scipy.org/doc/scipy/reference/
+
 https://docs.scipy.org/doc/numpy/reference/
 
 Przykłady:
@@ -23,4 +27,5 @@ https://github.com/jocicmarko/kaggle-dsb2-keras/
 Inne:
 
 https://www.kaggle.com/c/second-annual-data-science-bowl
+
 https://machinelearningmastery.com/start-here/#deeplearning
