@@ -34,6 +34,8 @@ Inne:
 
 https://machinelearningmastery.com/start-here/#deeplearning
 
+https://www.kaggle.com/c/second-annual-data-science-bowl/discussion/19839
+
 ftp://ftp-sop.inria.fr/odyssee/Team/Rachid.Deriche/Lectures/Master-Stic-IGMMV/level-set.pdf
 
 http://www2.maths.lth.se/vision/bildanalys/nu/f07
