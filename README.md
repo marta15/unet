@@ -4,6 +4,10 @@ GoogleDrive:
 
 https://drive.google.com/drive/folders/1SxwI6xmOUU7Dhc7GM5E3qkM-a1_GFJw3?usp=sharing
 
+Kaggle:
+
+https://www.kaggle.com/c/second-annual-data-science-bowl
+
 Wymagania formalne:
 
 https://eti.pg.edu.pl/documents/1115629/0/zarz%C4%85dzenie%20wytyczne%20pracy
@@ -24,8 +28,12 @@ Przykłady:
 
 https://github.com/jocicmarko/kaggle-dsb2-keras/
 
+https://github.com/chuckyee/cardiac-segmentation
+
 Inne:
 
-https://www.kaggle.com/c/second-annual-data-science-bowl
-
 https://machinelearningmastery.com/start-here/#deeplearning
+
+ftp://ftp-sop.inria.fr/odyssee/Team/Rachid.Deriche/Lectures/Master-Stic-IGMMV/level-set.pdf
+
+http://www2.maths.lth.se/vision/bildanalys/nu/f07
