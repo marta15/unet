@@ -10,29 +10,6 @@ from keras.callbacks import ModelCheckpoint, LearningRateScheduler, EarlyStoppin
 from keras import backend as keras
 from data import *
 
-smooth = 1.
-
-def root_mean_squared_error(y_true, y_pred):
-    """
-    RMSE loss function
-    """
-    return keras.sqrt(keras.mean(keras.square(y_pred - y_true), axis=-1))
-
-def dice_coef(y_true, y_pred):
-    y_true_f = keras.flatten(y_true)
-    y_pred_f = keras.flatten(y_pred)
-    intersection = keras.sum(y_true_f * y_pred_f)
-    return (2. * intersection + smooth) / (keras.sum(y_true_f) + keras.sum(y_pred_f) + smooth)
-
-
-def dice_coef_loss(y_true, y_pred):
-	return -dice_coef(y_true, y_pred)
-
-def center_normalize(x):
-    """
-    Custom activation for online sample-wise center and std. normalization
-    """
-    return (x - keras.mean(x)) / keras.std(x)
 
 class myUnet(object):
 
