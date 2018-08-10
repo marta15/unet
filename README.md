@@ -1,8 +1,5 @@
 # praca_dyplomowa
 
-Based on https://github.com/jocicmarko/ultrasound-nerve-segmentation
-
-
 Reference:
 
 https://keras.io/#keras-the-python-deep-learning-library
